@@ -19,7 +19,7 @@ public class StudentArray
         StudentDemo student1 = new StudentDemo("1", "Jim Halpern");
         studentList[0] = student1;
         studentList[1] = new StudentDemo("2", "M Scott");
-        studentList[2] = new StudentDemo("3", "Pam Beasley");
+        studentList[2] = new StudentDemo("3", "P Beasley");
         studentList[3] = new StudentDemo("4", "Dwight Schrute");
         studentList[4] = new StudentDemo("5", "Toby Flendersen");
         
